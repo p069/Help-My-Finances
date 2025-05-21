@@ -1,11 +1,7 @@
 
-# FinanceMe DevOps Project 01 🚀
 
-![Preview](Assets/preview_image.png)
-![Preview](./Assets/FinanceMe_architecture_diagram.png)
-![Preview](architecture_diagrams/FinanceMe_Flow_Diagram.png)
 
-This project demonstrates the deployment of a DevOps pipeline for a global banking and financial services provider, **FinanceMe**. The company transitioned from a monolithic architecture to a microservice-based architecture to handle increased traffic and scaling challenges. The project involves automating infrastructure provisioning, build and deployment processes, and continuous monitoring using modern DevOps tools and AWS services.
+This project demonstrates the deployment of a DevOps pipeline for a global banking and financial services provider, **Help My Finances**. The company transitioned from a monolithic architecture to a microservice-based architecture to handle increased traffic and scaling challenges. The project involves automating infrastructure provisioning, build and deployment processes, and continuous monitoring using modern DevOps tools and AWS services.
 
 ## Tools Used 🛠️
 - **AWS** (EC2, Security Groups, Access Tokens, etc.)
@@ -70,14 +66,3 @@ The project is divided into three main phases:
 - Push to the branch (`git push origin feature-name`)
 - Create a new Pull Request
 
-
-## Contact 📬
-For any queries or issues, feel free to reach out to me at:  
-**Email**: [abhijitzende75@gmail.com](mailto:abhijitzende75@gmail.com)  
-**LinkedIn**: [zende-abhijit](https://www.linkedin.com/in/zende-abhijit/)
-**Portfolio website**: [abhijit-zende](https://abhijit-zende.vercel.app/)
-**Blogpost**: [curious-abhi](https://abhijitzende.hashnode.dev/)
-
----
-
-Happy coding! 😎🚀
